@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gue/Mir7r3fL1Yn4TQ6pJa/Svs/u+zV+9Htm6fu4OCt7nfMhrCbcz9no1oxlBSrChCHhxFFS8DVN+FbkDdYK0Q==",
+  "dgSpecHash": "/zg5EU5JmXVw+U5IODPl7kCgPM4jHR7u2BtAEAlFYYwn9L7BhOV435AfBhDuvCDAqyC8a+awwsaZJL6I+A9ABw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\niko\\source\\repos\\Wpf_INotifyPropertyChanged_demo\\Wpf_INotifyPropertyChanged_demo\\Wpf_INotifyPropertyChanged_demo.csproj",
+  "projectFilePath": "D:\\data\\DemoCS\\Wpf_INotifyPropertyChanged_demo\\Wpf_INotifyPropertyChanged_demo\\Wpf_INotifyPropertyChanged_demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

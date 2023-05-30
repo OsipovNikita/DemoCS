@@ -13,7 +13,7 @@ namespace Wpf_INotifyPropertyChanged_demo
     /// 3) написать метод, вызывающий это событие 
     /// 4) во всех свойствах прописать вызов этого метода с передачей имени изменяющегося свойства
     /// </summary>
-    public class MyClass : INotifyPropertyChanged // 1)
+    public class MyClassProp : INotifyPropertyChanged // 1)
     {
         private string _myString;
 
