@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf_INotifyPropertyChanged_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabCS01", "..\LabCS01\LabCS01.csproj", "{11D71762-11DD-4FDF-8A80-1DD3C21CD325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppCustomerCall", "C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall.csproj", "{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{11D71762-11DD-4FDF-8A80-1DD3C21CD325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11D71762-11DD-4FDF-8A80-1DD3C21CD325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11D71762-11DD-4FDF-8A80-1DD3C21CD325}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

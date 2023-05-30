@@ -1,0 +1,10 @@
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\bin\Debug\WindowsFormsAppCustomerCall.exe.config
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\bin\Debug\WindowsFormsAppCustomerCall.exe
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\bin\Debug\WindowsFormsAppCustomerCall.pdb
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\obj\Debug\WindowsFormsAppCustomerCall.csproj.AssemblyReference.cache
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\obj\Debug\WindowsFormsAppCustomerCall.Form1.resources
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\obj\Debug\WindowsFormsAppCustomerCall.Properties.Resources.resources
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\obj\Debug\WindowsFormsAppCustomerCall.csproj.GenerateResource.cache
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\obj\Debug\WindowsFormsAppCustomerCall.csproj.CoreCompileInputs.cache
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\obj\Debug\WindowsFormsAppCustomerCall.exe
+C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\obj\Debug\WindowsFormsAppCustomerCall.pdb
