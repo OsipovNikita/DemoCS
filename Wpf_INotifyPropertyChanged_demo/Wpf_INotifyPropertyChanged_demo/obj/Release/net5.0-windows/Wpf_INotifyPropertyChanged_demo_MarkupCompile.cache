@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\data\DemoCS\Wpf_INotifyPropertyChanged_demo\Wpf_INotifyPropertyChanged_demo\obj\Debug\net5.0-windows\
+D:\data\DemoCS\Wpf_INotifyPropertyChanged_demo\Wpf_INotifyPropertyChanged_demo\obj\Release\net5.0-windows\
 Wpf_INotifyPropertyChanged_demo
 none
 false
-TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+TRACE;RELEASE;NET;NET5_0;NETCOREAPP
 D:\data\DemoCS\Wpf_INotifyPropertyChanged_demo\Wpf_INotifyPropertyChanged_demo\App.xaml
 11407045341
 
