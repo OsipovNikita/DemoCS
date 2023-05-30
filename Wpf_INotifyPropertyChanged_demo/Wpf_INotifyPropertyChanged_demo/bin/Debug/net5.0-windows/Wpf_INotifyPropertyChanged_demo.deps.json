@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Wpf_INotifyPropertyChanged_demo/1.0.0": {
+        "runtime": {
+          "Wpf_INotifyPropertyChanged_demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wpf_INotifyPropertyChanged_demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
