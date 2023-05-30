@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf_INotifyPropertyChanged_demo", "Wpf_INotifyPropertyChanged_demo\Wpf_INotifyPropertyChanged_demo.csproj", "{BC8014EC-3771-404D-90F7-DBBDB24D8B89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabCS01", "..\LabCS01\LabCS01.csproj", "{11D71762-11DD-4FDF-8A80-1DD3C21CD325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabCS01", "..\LabCS01\LabCS01.csproj", "{11D71762-11DD-4FDF-8A80-1DD3C21CD325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppCustomerCall", "C:\Users\niko\source\repos\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall\WindowsFormsAppCustomerCall.csproj", "{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{11D71762-11DD-4FDF-8A80-1DD3C21CD325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11D71762-11DD-4FDF-8A80-1DD3C21CD325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11D71762-11DD-4FDF-8A80-1DD3C21CD325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF1E65D-B647-4452-8FAD-AB9E8446AA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
